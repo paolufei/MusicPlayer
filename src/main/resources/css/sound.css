@@ -1,0 +1,19 @@
+.sound-root {
+    -fx-background-color: null;
+}
+
+.sound-pane {
+    -fx-background-color: #6c89d8;
+    -fx-background-radius: 5;
+}
+
+.sound-slider .thumb,
+.sound-slider .track {
+    -fx-background-color: #4561be;
+}
+
+.sound-slider .track {
+    -fx-min-width: 3;
+    -fx-pref-width: 3;
+    -fx-max-width: 3;
+}
